@@ -4,7 +4,7 @@ Useful Links:
 
 [HALUtil](https://first.wpi.edu/FRC/roborio/release/docs/java/edu/wpi/first/wpilibj/hal/HALUtil.html)
 
-- Migrate code to wpilibj simulator/HAL framework
+1. Migrate code to wpilibj simulator/HAL framework
   1. Rewrite/gut arduino communication libs
   2. Test with motion cotrollers
 2. Add support for actuators
