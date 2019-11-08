@@ -31,7 +31,6 @@
     1. Drafting principles
         - views (Ortho, perspective, iso, etc)
         - choice of program (SolidWorks, ZQs one?)
-1. **Machining**
 1. **Electrical basics**
     1. wiring and schematics
     1. Signals types (analog, digital, CAN, & PWM)
@@ -41,7 +40,7 @@
     1. Frames and mounting
     1. Accessibility and construction
     1. Types actuators and motions they create
-
+1. **Machining**
 
 Useful Links:
 
