@@ -1,6 +1,7 @@
 
-
 1. **Migrate code to wpilibj simulator/HAL framework**
+    1. Test basic HAL framework
+         - [github repo for HAL](https://github.com/wpilibsuite/allwpilib)
     1. Rewrite/gut arduino communication libs
     1. Test with motion cotrollers
 1. **Add support for actuators**
