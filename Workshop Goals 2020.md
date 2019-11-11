@@ -1,9 +1,15 @@
-
 1. **Migrate code to wpilibj simulator/HAL framework**
-    1. Test basic HAL framework
+    1. Test basic HAL framework with mock classes
          - [github repo for HAL](https://github.com/wpilibsuite/allwpilib)
-    1. Rewrite/gut arduino communication libs
-    1. Test with motion cotrollers
+    1. Create serial schema for ardunio communication
+    1. Implement basic components - differentialDrive and Joystick
+          - Implement serial message from Raspberry PI
+          - Implement Arduino firmware interprentation of message
+1. **IDE Support upgrades***
+    1. Refactor code to be cleaner and more flexible
+    1.  Allow for running locally
+    1. Add "Save" option
+    1. Allow for multiple files
 1. **Add support for actuators**
     1. choose actuators (servos, analog vs digital, etc)
     1. pitch actuators and why to team
