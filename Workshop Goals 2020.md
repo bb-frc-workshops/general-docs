@@ -52,6 +52,9 @@
     1. Accessibility and construction
     1. Types actuators and motions they create
 1. **Machining**
+1. **Scoring System**
+    1. Implement new, flexible scoring system
+    2. Potentially integrate with robot/field side controls
 
 Useful Links:
 
