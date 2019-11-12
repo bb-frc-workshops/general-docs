@@ -32,15 +32,66 @@
     1. write wpilibj override
     1. write sample code, integrate into doc in IDE
     1. train other engineers
+1. **Scoring System**
+    1. Build network to include field controls/robot overrides
+	    - disable/enable
+		- teleop/autonomous
+    1. Integrate Scoring system into network
+    1. Re-implement scoring system to have the following interfaces
+	    - Current Match Scoreboard
+		- Referee view for scoring
+		- Match schedule
+		- Ranking board
+		- Admin board to allow for manual updates
+		- Configurable game paremeters
 1. **Migrate to VSCode**
     1. move web services for build to local machine
         - JVM build locally
         - download hook/plug-in
         - iOS vs windows
     1. create detailed list for installing and setup
+1. **Machining**
+    1. Reading a technical drawing
+	1. Measurements and accuracy
+	    - Punch, scribes, cut-side of line
+	1. Hand tools
+	    - Screw driver/allen key, file, vise, hacksaw
+		- tap & die (threading)
+	1. Power tools
+	    - drill or screw gun
+		- chop saw
+		- rotary saw/worm drive
+		- dremel
+		- jigsaw
+		- Others: band saw, belt sander/angle grinder, scroll saw, miter saw, table saw, etc.
+	1. Milling
+	    - Manual milling
+		- CNC milling
+		    1. CAD and g-code conversion
+			1. Important considerations
+			    - Material cutting
+				- Speed Calibration
+				- Tolerance and dimensions
 1. **Introduction and lab on CAD**
+    1. Uses
+	    - Visualization
+		- Animation
+		- Prototyping via 3D printer
+		- Materialization via CNC
     1. Drafting principles
         - views (Ortho, perspective, iso, etc)
+		   1. Include meanings of solid line, dashed line
+		   1. Compare different views for same object
+		   1. Common designs, counterbore, countersink, etc.
+		- Coordinate systems (world and user defined)
+		- Navigation - Setting views and orientations
+		- Building simple designs (adding, appending, cropping, etc)
+		- Adding properties (materials, units, etc)
+		- Rendering (light source, etc)
+		- Adding dynamic constraints
+		- Animating
+		- Using 3D printing
+		- Conversion to g-code
         - choice of program (SolidWorks, ZQs one?)
 1. **Electrical basics**
     1. wiring and schematics
@@ -51,11 +102,8 @@
     1. Frames and mounting
     1. Accessibility and construction
     1. Types actuators and motions they create
-1. **Machining**
-1. **Scoring System**
-    1. Implement new, flexible scoring system
-    2. Potentially integrate with robot/field side controls
-
+	1. Sensors and different kinds of feedback
+	
 Useful Links:
 
 [HAL](https://first.wpi.edu/FRC/roborio/release/docs/cpp/annotated.html)
