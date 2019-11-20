@@ -1,13 +1,18 @@
-
 All hardware needs are per table + 5 additional for mentors
 1. Software
     1. VSCode
     1. CAD program
 1. Electronic hardware
     1. 1 Raspberry PI
+        - [4Gb $55](https://www.adafruit.com/product/4296?gclid=Cj0KCQiAn8nuBRCzARIsAJcdIfM7M8-ldAFSEGsy-fauD9wKoMNAFyJ-1vO8kHnkKL6vZ-1eewnjpJEaAj_JEALw_wcB)
     1. 1 Arduino
+        - [$22](https://www.robotshop.com/en/arduino-uno-r3-usb-microcontroller.html)
     1. 2 motors
-    1. 1 servo
+        - [$9 w/ wheels](https://www.amazon.com/gp/aw/d/B07VBXXT9M/ref=sspa_mw_detail_5?ie=UTF8&psc=1)
+        - [$3 shaft for lego gears](https://www.adafruit.com/product/3810)
+    1. 2 servos
+        - [$3 servo](https://hobbyking.com/en_us/hxt900-micro-servo-1-6kg-0-12sec-9g.html)
+        - [$1 shaft for lego gears](https://www.adafruit.com/product/4252)
     1. 1 limit switch
     1. 1 camera
     1. 1 battery box
@@ -19,6 +24,8 @@ All hardware needs are per table + 5 additional for mentors
     1. 4 gears
     1. 2 adjustible length belt chains
 1. Build materials
+    1. Legos
+    1. Lego gears
     1. 2 12"x12" pieces of cardboard
     1. 4 hot glue sticks
     1. Elmer's glue bottle
@@ -35,5 +42,3 @@ All hardware needs are per table + 5 additional for mentors
         1. 2 other colors
     1. 48'x6" perimeter wall
     1. Scoreboard
-   
-
