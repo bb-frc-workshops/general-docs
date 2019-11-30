@@ -2,6 +2,8 @@ All hardware needs are per table + 5 additional for mentors
 1. Software
     1. VSCode
     1. CAD program
+    1. [Arduino Software](https://www.arduino.cc/en/Main/Software)
+    1. [Microsoft Remote Arduino Experience](https://www.microsoft.com/en-us/p/windows-remote-arduino-experience/9nblggh2041m?activetab=pivot:overviewtab)
 1. Electronic hardware
     1. 1 Raspberry PI
         - [4Gb $55](https://www.adafruit.com/product/4296?gclid=Cj0KCQiAn8nuBRCzARIsAJcdIfM7M8-ldAFSEGsy-fauD9wKoMNAFyJ-1vO8kHnkKL6vZ-1eewnjpJEaAj_JEALw_wcB)
