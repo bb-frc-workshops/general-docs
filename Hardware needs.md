@@ -9,8 +9,8 @@ All hardware needs are per table + 5 additional for mentors
         - [2Gb $35](https://www.adafruit.com/product/4292)
     1. 1 Arduino
         - [$33 Pololu A-Star 32U4](https://www.amazon.com/Pololu-Star-Controller-Raspberry-Bridge/dp/B07L36FYZ2)
-    1. 2 motors
-        - [$9 w/ wheels](https://www.amazon.com/gp/aw/d/B07VBXXT9M/ref=sspa_mw_detail_5?ie=UTF8&psc=1)
+    1. Motor kit
+        - [$17 w/ 4 wheels & pre-cut wires](https://www.amazon.com/dp/B081W176PL/)
         - [$3 shaft for lego gears](https://www.adafruit.com/product/3810)
     1. 2 servos
         - [$3 servo](https://hobbyking.com/en_us/hxt900-micro-servo-1-6kg-0-12sec-9g.html)
@@ -18,8 +18,8 @@ All hardware needs are per table + 5 additional for mentors
     1. 1 limit switch
     1. 1 camera
     1. 1 battery box
-    1. 16 AA batteries
-    1. Flathead screwdriver pen
+    1. 4 AA batteries
+    1. Flathead screwdriver pen (for battery box)
     1. Gamepad controller
 1. Mechanical hardware
     1. 2 additional wheels
