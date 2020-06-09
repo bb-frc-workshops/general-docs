@@ -1,17 +1,10 @@
 All hardware needs are per table + 5 additional for mentors
 **Total Cost: $115 for barebones**
 1. Software
-<<<<<<< HEAD
     1. [VSCode](https://code.visualstudio.com/)
     1. CAD program (Fusion 360?)
     1. [Arduino Software](https://www.arduino.cc/en/Main/Software)
     1. [Windows Remote Arduino Experience](https://www.microsoft.com/en-us/p/windows-remote-arduino-experience/9nblggh2041m?activetab=pivot:overviewtab)
-=======
-    1. VSCode
-    1. CAD program
-    1. [Arduino Software](https://www.arduino.cc/en/Main/Software)
-    1. [Microsoft Remote Arduino Experience](https://www.microsoft.com/en-us/p/windows-remote-arduino-experience/9nblggh2041m?activetab=pivot:overviewtab)
->>>>>>> Update Hardware needs.md
 1. Electronic hardware
     1. 1 Raspberry PI
         - [2Gb $35](https://www.adafruit.com/product/4292)
