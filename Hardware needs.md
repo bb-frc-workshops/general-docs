@@ -1,5 +1,4 @@
 All hardware needs are per table + 5 additional for mentors
-**Total Cost: $115 for barebones**
 1. Software
 <<<<<<< HEAD
     1. [VSCode](https://code.visualstudio.com/)
@@ -25,10 +24,10 @@ All hardware needs are per table + 5 additional for mentors
         - [$1 shaft for lego gears](https://www.adafruit.com/product/4252)
     1. 1 limit switch
     1. 1 camera
-    1. 1 battery box [$6 for 2](https://smile.amazon.com/Ogrmar-Switch-Battery-Holder-Leads/dp/B075G8XZLM)
-    1. 4 AA batteries [$4](https://smile.amazon.com/Energizer-MAX-Alkaline-Batteries-Pack/dp/B00451SSBI)
-    1. Flathead screwdriver pen (for battery box) [$7 for 2](https://smile.amazon.com/Bostitch-Office-Stanley-Screwdriver-66-344-2/dp/B00ZPSO8GE)
-    1. Gamepad controller [$20 Logitech](https://smile.amazon.com/Logitech-940-000110-Gamepad-F310/dp/B003VAHYQY)
+    1. 1 battery box
+    1. 4 AA batteries
+    1. Flathead screwdriver pen (for battery box)
+    1. Gamepad controller
 1. Mechanical hardware
     1. 2 additional wheels
     1. 4 gears
@@ -36,14 +35,14 @@ All hardware needs are per table + 5 additional for mentors
 1. Build materials
     1. Legos
     1. Lego gears
-    1. 2 12"x12" pieces of cardboard (from packaging box)
-    1. 4 hot glue sticks + 1 glue gun
-    1. Elmer's glue bottle [$4](https://smile.amazon.com/Elmers-Glue-All-Multi-Purpose-Liquid-Strong/dp/B0037WUWIS)
+    1. 2 12"x12" pieces of cardboard
+    1. 4 hot glue sticks
+    1. Elmer's glue bottle
     1. 10 popsicle sticks
     1. 1 roll double sided tape
     1. 4 different colored markers
     1. 1 12" ruler
-    1. 3 pairs of scissors [$6](https://smile.amazon.com/Fiskars-01-004761J-Softgrip-Scissors-Stainless/dp/B002YIP97K)
+    1. 3 pairs of scissors
     1. Game pieces such as a ball, foam brick, etc.
 1. **Game field (only one set for all)**
     1. 4 2" wide fabric tape
