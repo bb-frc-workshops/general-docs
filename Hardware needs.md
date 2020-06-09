@@ -1,5 +1,7 @@
 All hardware needs are per table + 5 additional for mentors
-**Total Cost: $115 for barebones**
+
+<span style="color:red">**Total Cost: $115 for barebones**</style>
+
 1. Software
     1. [VSCode](https://code.visualstudio.com/)
     1. CAD program (Fusion 360?)
